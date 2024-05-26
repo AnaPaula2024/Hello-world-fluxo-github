@@ -4,8 +4,8 @@ Seguindo o tutorial da página https://docs.github.com/pt/get-started/start-your
 
 NESTA ETAPA:
 
-Foi Criado um repositório.
-Iniciado e gerenciado uma nova ramificação.
-Alterado um arquivo e feito commit dessas alterações no GitHub.
+Foi Criado um repositório.<br>
+Iniciado e gerenciado uma nova ramificação.<br>
+Alterado um arquivo e feito commit dessas alterações no GitHub.<br>
 Aberto e realizado merge de uma solicitação de pull.
 
